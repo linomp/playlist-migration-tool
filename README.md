@@ -15,7 +15,7 @@ This tool facilitates the process of copying the songs from a spotify playlist t
 Then you can go crazy and add all the underground shit you want!
 
 ## Requirements
-- Spotify account
+- Spotify account (not necessarily Premium)
 - Spotify API keys ([instructions here](https://developer.spotify.com/documentation/web-api/concepts/apps))
 
   _Note: as long as you don't exaggerate, the queries made by this tool should fall under the free Spotify API usage tier..._
