@@ -9,9 +9,10 @@ I found some online solutions for syncing playlists across services, but they mo
 So I made this:
 
 <img src="https://github.com/linomp/spotify-to-yt-playlist-migration/assets/40581019/12bf1655-4ad9-4c32-a101-6aacf7905678" width="100%"/>
+<br><br>
 
 This tool facilitates the process of copying the songs from a spotify playlist to a youtube playlist (and any artist + song that you enter in the columns actually...). 
-
+<br><br>
 Then you can go crazy and add all the underground shit you want!
 
 ## Requirements
